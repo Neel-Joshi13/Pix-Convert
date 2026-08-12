@@ -1,4 +1,4 @@
-# PixConvert
+# Pix-Convert
 
 PixConvert is a web-based image conversion and compression application built with Python, Flask, Pillow, HTML, CSS, and JavaScript.
 
